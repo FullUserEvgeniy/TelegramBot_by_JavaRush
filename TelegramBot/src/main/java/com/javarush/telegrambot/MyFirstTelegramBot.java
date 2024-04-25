@@ -14,7 +14,7 @@ import java.util.Map;
 import static com.javarush.telegrambot.TelegramBotContent.*;
 
 public class MyFirstTelegramBot extends MultiSessionTelegramBot {
-    public static final String NAME = "JR_New_My_001_Test_Bot"; // TODO: добавьте имя бота в кавычках
+    public static final String NAME = ""; // TODO: добавьте имя бота в кавычках
     public static final String TOKEN = ""; //TODO: добавьте токен бота в кавычках
 
     public MyFirstTelegramBot() {
